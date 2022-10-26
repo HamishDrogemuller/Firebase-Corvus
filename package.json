@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HamishDrogemuller/Firebase-Corvus/issues"
   },
-  "homepage": "https://github.com/HamishDrogemuller/Firebase-Corvus#readme"
+  "homepage": "https://github.com/HamishDrogemuller/Firebase-Corvus#readme",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  }
 }
